@@ -1,0 +1,1 @@
+#include "Shkola.h"
